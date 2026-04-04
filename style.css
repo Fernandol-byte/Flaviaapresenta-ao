@@ -1,4 +1,4 @@
-<style>
+
 *{
   box-sizing:border-box;
   margin:0;
@@ -421,4 +421,4 @@ body{
 .slide.active > *{
   animation:fadeIn .45s ease both
 }
-</style>
+
